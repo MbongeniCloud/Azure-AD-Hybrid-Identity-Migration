@@ -1,6 +1,6 @@
-# 🚀 Enterprise Hybrid Identity Migration & Security Implementation (Azure)
+#  Enterprise Hybrid Identity Migration & Security Implementation (Azure)
 
-🔐 Security-Focused | ☁️ Cloud Architecture | 🏢 Real-World Scenario
+ Security-Focused |  Cloud Architecture |  Real-World Scenario
 
 ---
 
@@ -97,11 +97,11 @@ This solution uses a hybrid identity model integrating on-premises Active Direct
 
 | Control | Status | Details |
 |---|---|---|
-| MFA for Admin Accounts | ✅ Enabled | Protects privileged access |
-| Password Hash Sync (PHS) | ✅ Enabled | Avoids plaintext credential exposure |
-| Self-Service Password Reset | ✅ Configured | Reduces attack surface of helpdesk |
-| Least Privilege Access | ✅ Applied | Role-based admin separation |
-| Identity Secure Score | ✅ 100% | Verified in Entra admin center |
+| MFA for Admin Accounts |  Enabled | Protects privileged access |
+| Password Hash Sync (PHS) |  Enabled | Avoids plaintext credential exposure |
+| Self-Service Password Reset |  Configured | Reduces attack surface of helpdesk |
+| Least Privilege Access |  Applied | Role-based admin separation |
+| Identity Secure Score |  100% | Verified in Entra admin center |
 
 ---
 
@@ -173,12 +173,12 @@ This solution uses a hybrid identity model integrating on-premises Active Direct
 
 ## Skills Demonstrated
 
-- ☁️ Cloud Infrastructure Provisioning (Azure IaaS)
-- 🔐 Identity & Access Management (IAM)
-- 🏗️ Hybrid Cloud Architecture Design
-- 🛡️ Enterprise Security Configuration
-- 🔄 Directory Synchronisation & Replication
-- 📋 Active Directory Administration
+-  Cloud Infrastructure Provisioning (Azure IaaS)
+-  Identity & Access Management (IAM)
+-  Hybrid Cloud Architecture Design
+-  Enterprise Security Configuration
+-  Directory Synchronisation & Replication
+-  Active Directory Administration
 
 ---
 
