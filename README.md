@@ -122,39 +122,30 @@ This solution uses a hybrid identity model integrating on-premises Active Direct
 ### 1. Azure VM — Domain Controller Deployed
 > Windows Server 2025 VM provisioned on Azure IaaS, configured as the on-premises Active Directory Domain Controller (`corp.local`).
 
-*(See `/screenshots/01-azure-vm-deployed.png`)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8ff8c9b9-34a2-4e6d-b55d-a8d9810e04f5" />
 
 ---
 
 ### 2. Microsoft Entra ID — Admin Center Overview
 > Tenant dashboard showing Identity Secure Score at **100%**, Entra Connect enabled, and 4 users synced from on-premises AD.
 
-*(See `/screenshots/02-entra-admin-center.png`)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cd7def5-fa2f-41ab-8ec1-7c8c5cf63a74" />
 
 ---
 
 ### 3. Users Successfully Synchronised
 > 4 domain users (Admin, Jane, Jacob, Mbongeni) successfully synchronised from on-premises Active Directory to Microsoft Entra ID via Entra Connect Sync.
 
-*(See `/screenshots/03-users-synced.png`)*
+<img width="1366" height="754" alt="image" src="https://github.com/user-attachments/assets/29ded00c-d0ed-4abe-ace8-f169e63bc060" />
 
 ---
 
 ### 4. Self-Service Password Reset Configured
 > SSPR enabled in the Entra admin center, allowing users to reset passwords from any device without contacting IT support.
 
-*(See `/screenshots/04-sspr-configured.png`)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f502f1e-ab0e-410b-acd8-9991241b7832" />
 
 ---
-
-## Screenshots
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8ff8c9b9-34a2-4e6d-b55d-a8d9810e04f5" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cd7def5-fa2f-41ab-8ec1-7c8c5cf63a74" />
-
-<img width="1366" height="754" alt="image" src="https://github.com/user-attachments/assets/29ded00c-d0ed-4abe-ace8-f169e63bc060" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f502f1e-ab0e-410b-acd8-9991241b7832" />
 
 
 ## Future Improvements
